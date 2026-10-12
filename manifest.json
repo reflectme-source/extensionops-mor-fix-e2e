@@ -1,0 +1,9 @@
+{
+  "manifest_version": 3,
+  "name": "ExtensionOps Synthetic E2E Fixture",
+  "version": "0.0.1",
+  "description": "Synthetic non-published dummy extension solely for scanner testing",
+  "action": {
+    "default_title": "Test"
+  }
+}
